@@ -1,0 +1,5 @@
+dt=2026-02-23
+ok_count=2
+missing_in_backup_count=0
+size_mismatch_count=0
+extra_in_backup_count=0

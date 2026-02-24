@@ -1,0 +1,3 @@
+target,corrupt_count,missing_count,under_replicated_count,status
+/data,0,0,0,HEALTHY
+/backup,0,0,0,HEALTHY

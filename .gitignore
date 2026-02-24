@@ -1,0 +1,4 @@
+data_local/
+tmp_logs/
+*.pyc
+__pycache__/

@@ -1,0 +1,9 @@
+step,duration_seconds
+00_bootstrap.sh,10
+10_generate_data.sh,15
+20_ingest_hdfs.sh,46
+30_fsck_audit.sh,8
+40_backup_copy.sh,13
+50_inventory_compare.sh,6
+70_incident_simulation.sh,62
+80_recovery_restore.sh,31

@@ -1,0 +1,3 @@
+path,status,source_size,dest_size
+/backup/logs/raw/dt=2026-02-23/logs_20260223.log,OK,278370545,278370545
+/backup/iot/raw/dt=2026-02-23/iot_20260223.jsonl,OK,285740000,285740000

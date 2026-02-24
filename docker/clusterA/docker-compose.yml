@@ -1,5 +1,3 @@
-version: '3.8'
-
 networks:
     hadoop-net:
         driver: bridge
@@ -37,7 +35,7 @@ services:
     depends_on:
         - namenode
         - resourcemanager
-    command: /opt/bd/start-daemons.sh
+    command: bash -lc "rm -rf /var/data/hadoop/hdfs/dn/* && /opt/bd/start-daemons.sh"
     networks:
         - hadoop-net
 

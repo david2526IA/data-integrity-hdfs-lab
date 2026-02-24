@@ -1,0 +1,6 @@
+NAME              CPU %     MEM USAGE / LIMIT     NET I/O           BLOCK I/O
+clustera-dnnm-3   0.78%     722.9MiB / 15.47GiB   1.35GB / 1.25GB   204MB / 1.27GB
+clustera-dnnm-2   0.61%     794.1MiB / 15.47GiB   2.15GB / 1.87GB   181MB / 1.97GB
+clustera-dnnm-1   1.75%     780MiB / 15.47GiB     2.22GB / 2.01GB   139MB / 2.08GB
+resourcemanager   0.65%     546.2MiB / 15.47GiB   555kB / 159kB     0B / 725kB
+namenode          0.22%     444.5MiB / 15.47GiB   1.14GB / 1.71GB   1.5MB / 5.47MB

@@ -1,0 +1,8 @@
+drwxr-xr-x   - hdadmin supergroup          0 2026-02-23 22:56 /backup/iot
+drwxr-xr-x   - hdadmin supergroup          0 2026-02-23 22:56 /backup/iot/raw
+drwxr-xr-x   - hdadmin supergroup          0 2026-02-23 23:09 /backup/iot/raw/dt=2026-02-23
+-rw-r--r--   3 hdadmin supergroup  285740000 2026-02-23 23:09 /backup/iot/raw/dt=2026-02-23/iot_20260223.jsonl
+drwxr-xr-x   - hdadmin supergroup          0 2026-02-23 22:56 /backup/logs
+drwxr-xr-x   - hdadmin supergroup          0 2026-02-23 22:56 /backup/logs/raw
+drwxr-xr-x   - hdadmin supergroup          0 2026-02-23 23:09 /backup/logs/raw/dt=2026-02-23
+-rw-r--r--   3 hdadmin supergroup  278370545 2026-02-23 23:09 /backup/logs/raw/dt=2026-02-23/logs_20260223.log

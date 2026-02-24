@@ -1,0 +1,2 @@
+272.5 M  817.5 M  /data/iot
+265.5 M  796.4 M  /data/logs

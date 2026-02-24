@@ -1,0 +1,3 @@
+dt=2026-02-23
+target_replication=2
+recovery_status=HEALTHY
