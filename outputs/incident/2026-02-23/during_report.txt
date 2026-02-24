@@ -1,8 +1,8 @@
 Configured Capacity: 3243303530496 (2.95 TB)
-Present Capacity: 3027293992403 (2.75 TB)
-DFS Remaining: 3023313522688 (2.75 TB)
-DFS Used: 3980469715 (3.71 GB)
-DFS Used%: 0.13%
+Present Capacity: 3028427760553 (2.75 TB)
+DFS Remaining: 3025015791616 (2.75 TB)
+DFS Used: 3411968937 (3.18 GB)
+DFS Used%: 0.11%
 Replicated Blocks:
 	Under replicated blocks: 0
 	Blocks with corrupt replicas: 0
@@ -24,59 +24,59 @@ Name: 172.18.0.4:9866 (172.18.0.4)
 Hostname: ee85be074723
 Decommission Status : Normal
 Configured Capacity: 1081101176832 (1006.85 GB)
-DFS Used: 1705628325 (1.59 GB)
-Non DFS Used: 16632106331 (15.49 GB)
-DFS Remaining: 1007771086848 (938.56 GB)
-DFS Used%: 0.16%
-DFS Remaining%: 93.22%
+DFS Used: 1137086832 (1.06 GB)
+Non DFS Used: 16633167504 (15.49 GB)
+DFS Remaining: 1008338567168 (939.09 GB)
+DFS Used%: 0.11%
+DFS Remaining%: 93.27%
 Configured Cache Capacity: 0 (0 B)
 Cache Used: 0 (0 B)
 Cache Remaining: 0 (0 B)
 Cache Used%: 100.00%
 Cache Remaining%: 0.00%
 Xceivers: 0
-Last contact: Mon Feb 23 23:10:05 GMT 2026
-Last Block Report: Mon Feb 23 22:59:11 GMT 2026
-Num of Blocks: 44
+Last contact: Tue Feb 24 04:12:50 GMT 2026
+Last Block Report: Tue Feb 24 04:11:38 GMT 2026
+Num of Blocks: 39
 
 
 Name: 172.18.0.5:9866 (clustera-dnnm-2.clustera_hadoop-net)
 Hostname: 7e08b4917a37
 Decommission Status : Normal
 Configured Capacity: 1081101176832 (1006.85 GB)
-DFS Used: 1137422743 (1.06 GB)
-Non DFS Used: 17200180841 (16.02 GB)
-DFS Remaining: 1007771217920 (938.56 GB)
+DFS Used: 1137438791 (1.06 GB)
+Non DFS Used: 16632770489 (15.49 GB)
+DFS Remaining: 1008338612224 (939.09 GB)
 DFS Used%: 0.11%
-DFS Remaining%: 93.22%
+DFS Remaining%: 93.27%
 Configured Cache Capacity: 0 (0 B)
 Cache Used: 0 (0 B)
 Cache Remaining: 0 (0 B)
 Cache Used%: 100.00%
 Cache Remaining%: 0.00%
 Xceivers: 0
-Last contact: Mon Feb 23 23:10:21 GMT 2026
-Last Block Report: Mon Feb 23 22:55:36 GMT 2026
-Num of Blocks: 44
+Last contact: Tue Feb 24 04:13:07 GMT 2026
+Last Block Report: Tue Feb 24 00:27:40 GMT 2026
+Num of Blocks: 43
 
 
 Name: 172.18.0.6:9866 (clustera-dnnm-1.clustera_hadoop-net)
 Hostname: 80e7341a1728
 Decommission Status : Normal
 Configured Capacity: 1081101176832 (1006.85 GB)
-DFS Used: 1137418647 (1.06 GB)
-Non DFS Used: 17200184937 (16.02 GB)
-DFS Remaining: 1007771217920 (938.56 GB)
+DFS Used: 1137443314 (1.06 GB)
+Non DFS Used: 16632765966 (15.49 GB)
+DFS Remaining: 1008338612224 (939.09 GB)
 DFS Used%: 0.11%
-DFS Remaining%: 93.22%
+DFS Remaining%: 93.27%
 Configured Cache Capacity: 0 (0 B)
 Cache Used: 0 (0 B)
 Cache Remaining: 0 (0 B)
 Cache Used%: 100.00%
 Cache Remaining%: 0.00%
 Xceivers: 0
-Last contact: Mon Feb 23 23:10:22 GMT 2026
-Last Block Report: Mon Feb 23 22:55:36 GMT 2026
+Last contact: Tue Feb 24 04:13:07 GMT 2026
+Last Block Report: Tue Feb 24 00:10:34 GMT 2026
 Num of Blocks: 44
 
 

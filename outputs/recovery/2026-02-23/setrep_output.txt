@@ -1,4 +1,6 @@
 Replication 2 set: /data/iot/raw/dt=2026-02-23/iot_20260223.jsonl
 Replication 2 set: /data/logs/raw/dt=2026-02-23/logs_20260223.log
-Waiting for /data/iot/raw/dt=2026-02-23/iot_20260223.jsonl ... done
+Waiting for /data/iot/raw/dt=2026-02-23/iot_20260223.jsonl ...
+WARNING: the waiting time may be long for DECREASING the number of replications.
+. done
 Waiting for /data/logs/raw/dt=2026-02-23/logs_20260223.log ... done

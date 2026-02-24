@@ -1,8 +1,8 @@
 drwxr-xr-x   - hdadmin supergroup          0 2026-02-23 22:56 /data/iot
-drwxr-xr-x   - hdadmin supergroup          0 2026-02-23 23:11 /data/iot/raw
-drwxr-xr-x   - hdadmin supergroup          0 2026-02-23 23:11 /data/iot/raw/dt=2026-02-23
--rw-r--r--   3 hdadmin supergroup  285740000 2026-02-23 23:11 /data/iot/raw/dt=2026-02-23/iot_20260223.jsonl
+drwxr-xr-x   - hdadmin supergroup          0 2026-02-24 04:14 /data/iot/raw
+drwxr-xr-x   - hdadmin supergroup          0 2026-02-24 04:14 /data/iot/raw/dt=2026-02-23
+-rw-r--r--   3 hdadmin supergroup  285740000 2026-02-24 04:14 /data/iot/raw/dt=2026-02-23/iot_20260223.jsonl
 drwxr-xr-x   - hdadmin supergroup          0 2026-02-23 22:56 /data/logs
-drwxr-xr-x   - hdadmin supergroup          0 2026-02-23 23:11 /data/logs/raw
-drwxr-xr-x   - hdadmin supergroup          0 2026-02-23 23:11 /data/logs/raw/dt=2026-02-23
--rw-r--r--   3 hdadmin supergroup  278370545 2026-02-23 23:11 /data/logs/raw/dt=2026-02-23/logs_20260223.log
+drwxr-xr-x   - hdadmin supergroup          0 2026-02-24 04:14 /data/logs/raw
+drwxr-xr-x   - hdadmin supergroup          0 2026-02-24 04:14 /data/logs/raw/dt=2026-02-23
+-rw-r--r--   3 hdadmin supergroup  278370545 2026-02-24 04:14 /data/logs/raw/dt=2026-02-23/logs_20260223.log
